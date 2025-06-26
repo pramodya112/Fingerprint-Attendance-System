@@ -17,11 +17,6 @@ This is a fingerprint-based employee attendance system developed during my inter
 - Logged time tracking per employee
 - Lightweight and efficient UI
 
-## 📸 Screenshots
-
-> *(Add some screenshots from the app UI or fingerprint scan screen here)*  
-> ![Real-time Attendance](screenshots/attendance.png)
-
 ## 🚀 How It Works
 
 1. User places finger on the biometric scanner
